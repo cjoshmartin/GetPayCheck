@@ -12,7 +12,9 @@ Logins into CAS (Indiana University's Authorization) and scrapes data for next p
 cd ;nano .bash_profile
 ```
 5) paste this in : ``` alias paycheck=" casperjs [location to paycheck file] " ```
+
 6) press ```control+x``` then ```y ``` 
+
 7) in terminal type: 
 ```shell
 source ~/.bash_profile
