@@ -2,8 +2,11 @@
 Logins into CAS (Indiana University's Authorization) and scrapes data for next paycheck  
 # Setup
 1) install  [Phatantom JS](http://phantomjs.org/download.html)  (for mac, recommend just running ```brew update;brew install phantomjs``` ) 
+
 2) ``` npm install -g casperjs```
+
 3) update config.json
+
 4) in terminal type: 
 ```shell
 cd ;nano .bash_profile
